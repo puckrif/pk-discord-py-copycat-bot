@@ -1,0 +1,7 @@
+# folders
+/env
+
+# files
+.env
+discord_bot_token.txt
+log.log
