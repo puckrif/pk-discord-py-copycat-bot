@@ -5,3 +5,4 @@
 .env
 discord_bot_token.txt
 log.log
+authorized_channels.json
