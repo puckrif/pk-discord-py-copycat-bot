@@ -1,7 +1,6 @@
-# Pk's League Companion
+# Pk's py Discord copycat
 
-A Discord League of Legends companion bot  
-! The bot is in french
+A simple discord bot that repeats what is said in a given channel
 
 ## Commands
 
